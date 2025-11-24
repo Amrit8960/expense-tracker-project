@@ -369,7 +369,7 @@ Data Stored in MySQL Database
 | --------------- | ------------- |
 | **Team Leader** | Amit Kumar    |
 | **Team Member** | Amrit Shekhar |
-| **Team Member** | Ankit Yadav   |
+| **Team Member** | Ankit Kumar  |
 
 ---
 
