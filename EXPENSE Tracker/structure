@@ -1,0 +1,17 @@
+ExpenseTracker/
+ ├── src/
+ │   ├── database/
+ │   │   └── DBConnection.java
+ │   ├── model/
+ │   │   ├── DatabaseEntity.java
+ │   │   └── Expense.java
+ │   ├── dao/
+ │   │   └── ExpenseDAO.java
+ │   ├── service/
+ │   │   ├── ExpenseServiceInterface.java
+ │   │   └── ExpenseServiceImpl.java
+ │   ├── ui/
+ │   │   └── ExpenseTrackerGUI.java
+ │   └── Main.java
+ └── README.md
+
